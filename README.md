@@ -2,12 +2,11 @@
 
 ## Project info
 
+![Alt Text](public/images/1.png)
 
-![Alt Text](1.png)
+![Alt Text](public/images/2.png)
 
-![Alt Text](2.png)
-
-![Alt Text](3.png)
+![Alt Text](public/images/3.png)
 
 ## What is this project?
 
