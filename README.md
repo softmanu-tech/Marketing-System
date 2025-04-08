@@ -1,4 +1,4 @@
-# Welcome to your  Your Best Marketing System
+# Welcome to Your Best Marketing System
 
 ## Project info
 
